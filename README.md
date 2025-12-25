@@ -77,15 +77,6 @@ I am a **Computer Science graduate** passionate about building **scalable, user-
 
 ---
 
-📊 GitHub Stats  
----------------
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dwivedi0720&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwivedi0720&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 📫 Let's Connect  
 ----------------
