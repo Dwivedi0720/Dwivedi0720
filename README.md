@@ -27,6 +27,21 @@ I am a **Computer Science graduate** passionate about building **scalable, user-
 
 ---
 
+🛠️ Tech Stack  
+--------------
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
 📂 Featured Projects  
 -------------------
 
@@ -36,26 +51,6 @@ I am a **Computer Science graduate** passionate about building **scalable, user-
 | **To-Do List Web App** | CRUD-based task management app using Django MVT | Django, SQLite |
 | **Student Information Management System** | Full-stack app to manage student records | Django, HTML, CSS |
 | **Credit Card Fraud Detection** | ML-based system to detect fraudulent transactions | Python, ML |
-
----
-
-🛠️ Tech Stack  
---------------
-
-**Languages**  
-Python · C++ · JavaScript · HTML · CSS  
-
-**Frameworks & Libraries**  
-Django · React  
-
-**Databases**  
-Oracle SQL · SQLite  
-
-**Tools & Platforms**  
-Git · GitHub · VS Code · Canvas  
-
-**Data & ML (Basics)**  
-Pandas · NumPy  
 
 ---
 
@@ -85,9 +80,10 @@ Pandas · NumPy
 📊 GitHub Stats  
 ---------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwivedi0720&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwivedi0720&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dwivedi0720&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwivedi0720&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
